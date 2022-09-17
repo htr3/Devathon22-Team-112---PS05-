@@ -4,15 +4,14 @@
 }
 body {
 	font-size: 120%;
-	background-image: url('1k.jpg');
-  background-color: #cccccc;
+  background-color: #659be2;
 }
 
 .header {
 	width: 30%;
 	margin: 50px auto 0px;
 	color: white;
-	background: #5F9EA0;
+	background: #023031;
 	text-align: center;
 	border: 1px solid #B0C4DE;
 	border-bottom: none;
@@ -24,7 +23,7 @@ form, .content {
 	margin: 0px auto;
 	padding: 20px;
 	border: 1px solid #B0C4DE;
-	background: white;
+	background: rgb(197, 90, 2);
 	border-radius: 0px 0px 10px 10px;
 }
 .input-group {
@@ -48,7 +47,7 @@ form, .content {
 	padding: 10px;
 	font-size: 15px;
 	color: white;
-	background: #5F9EA0;
+	background: #084697;
 	border: none;
 	border-radius: 5px;
 }
